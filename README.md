@@ -1,6 +1,6 @@
 # The-Psalms-Scroll-4Q84–Font
 
-# Migrating from (https://github.com/BeitDina/The-Psalms-Scroll-4Q84–Font/)  
+# Migrating from (https://github.com/BeitDina/The-Psalms-Scroll-4Q84-Font/)  
 
 # Font Version 0.01 Alpha | Astronomical-Book-of-Enoch-4Q208 
 
