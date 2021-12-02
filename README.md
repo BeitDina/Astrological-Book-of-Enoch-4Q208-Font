@@ -1,8 +1,8 @@
-# The-Psalms-Scroll-4Q84–Font
+# Astronomical-Book-of-Enoch-4Q208
 
 # Migrating from (https://github.com/BeitDina/The-Psalms-Scroll-4Q84-Font/)  
 
-# Font Version 0.01 Alpha | Astronomical-Book-of-Enoch-4Q208 
+# Font Version 0.0.3 Alpha | Astronomical-Book-of-Enoch-4Q208 | Preview Font http://www.beitdina.net/pub/
 
 # This font contain glyphs for realizing the ancient alphabet of Dead Sea Scrolls - Book of Enoch 4Q208 and Psalm Scroll fragments from cave 4Q.  
 
