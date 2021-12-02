@@ -1,5 +1,5 @@
 /*
-			! Astronomical-Book-of-Enoch-4Q208-Font ! 
+			! Astronomical-Book-of-Enoch-4Q208 ! 
 		 */
 	@font-face {
 		  font-family:'Astronomical-Book-of-Enoch-4Q208'; 
@@ -40,7 +40,7 @@
 	.glyph-icon{
 			padding: 10px;
 			display: block;
-			font-family: 'The-Psalms-Scroll-4Q84';
+			font-family: 'Astronomical-Book-of-Enoch-4Q208';
 			font-size: 64px;
 			line-height: 1;
 	}
@@ -59,7 +59,7 @@
 				cursor: text;
 	}
 	.glyph > input.icon-input{
-				font-family: 'The-Psalms-Scroll-4Q84';
+				font-family: 'Astronomical-Book-of-Enoch-4Q208';
 				font-size: 16px;
 				margin-bottom: 10px;
 		}
