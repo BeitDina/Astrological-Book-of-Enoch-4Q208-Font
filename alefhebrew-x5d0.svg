@@ -21,18 +21,7 @@
    id="title3743">Sinai 357</title><metadata
    id="metadata72"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Sinai 357</dc:title><dc:date>2017</dc:date><dc:creator><cc:Agent><dc:title>Celeste Claire Horner</dc:title></cc:Agent></dc:creator><dc:publisher><cc:Agent><dc:title>beitdina.net</dc:title></cc:Agent></dc:publisher><cc:license
-         rdf:resource="http://scripts.sil.org/OFL" /></cc:Work><cc:License
-       rdf:about="http://scripts.sil.org/OFL"><cc:permits
-         rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" /><cc:permits
-         rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" /><cc:permits
-         rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" /><cc:permits
-         rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" /><cc:requires
-         rdf:resource="http://scripts.sil.org/pub/OFL/Notice" /><cc:requires
-         rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" /><cc:requires
-         rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" /><cc:requires
-         rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" /><cc:requires
-         rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" /></cc:License></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Sinai 357</dc:title><dc:date>2017</dc:date><dc:creator><cc:Agent><dc:title>Celeste Claire Horner</dc:title></cc:Agent></dc:creator><dc:publisher><cc:Agent><dc:title>beitdina.net</dc:title></cc:Agent></dc:publisher></cc:Work></rdf:RDF></metadata><defs
    id="defs70" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -46,17 +35,17 @@
    inkscape:window-height="814"
    id="namedview68"
    showgrid="false"
-   inkscape:zoom="0.18331524"
-   inkscape:cx="1529.7131"
-   inkscape:cy="460.83226"
+   inkscape:zoom="0.1274414"
+   inkscape:cx="901.81424"
+   inkscape:cy="384.56979"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="g70" />
+   inkscape:current-layer="Layer_1" />
    
 	<g
    id="Grid"
-   transform="matrix(1.9502951,0,0,-1.9942504,1.456297,1023.5089)">
+   transform="matrix(1.9502951,0,0,1.9942504,1.456297,2.4527424)">
 		<rect
    x="0"
    stroke-miterlimit="10"
@@ -67,98 +56,98 @@
    style="fill:none;stroke:#a9ccdb;stroke-miterlimit:10" />
 		<line
    stroke-miterlimit="10"
-   x1="3.5344991e-017"
-   y1="192"
+   x1="0"
+   y1="32"
    x2="512"
-   y2="192"
+   y2="32"
    id="line6"
    style="fill:none;stroke:#a9ccdb;stroke-miterlimit:10" />
 		<line
    stroke-miterlimit="10"
-   x1="3.5344991e-017"
-   y1="224"
+   x1="0"
+   y1="64"
    x2="512"
-   y2="224"
+   y2="64"
    id="line8"
    style="fill:none;stroke:#a9ccdb;stroke-miterlimit:10" />
 		<line
    stroke-miterlimit="10"
-   x1="3.5344991e-017"
-   y1="256"
+   x1="0"
+   y1="96"
    x2="512"
-   y2="256"
+   y2="96"
    id="line10"
    style="fill:none;stroke:#a9ccdb;stroke-miterlimit:10" />
 		<line
    stroke-miterlimit="10"
-   x1="3.5344991e-017"
-   y1="288"
+   x1="0"
+   y1="128"
    x2="512"
-   y2="288"
+   y2="128"
    id="line12"
    style="fill:none;stroke:#a9ccdb;stroke-miterlimit:10" />
 		<line
    stroke-miterlimit="10"
-   x1="3.5344991e-017"
-   y1="320"
+   x1="0"
+   y1="160"
    x2="512"
-   y2="320"
+   y2="160"
    id="line14"
    style="fill:none;stroke:#a9ccdb;stroke-miterlimit:10" />
 		<line
    stroke-miterlimit="10"
-   x1="3.5344991e-017"
-   y1="352"
+   x1="0"
+   y1="192"
    x2="512"
-   y2="352"
+   y2="192"
    id="line16"
    style="fill:none;stroke:#a9ccdb;stroke-miterlimit:10" />
 		<line
    stroke-miterlimit="10"
-   x1="3.5344991e-017"
-   y1="384"
+   x1="0"
+   y1="224"
    x2="512"
-   y2="384"
+   y2="224"
    id="line18"
    style="fill:none;stroke:#a9ccdb;stroke-miterlimit:10" />
 		<line
    stroke-miterlimit="10"
-   x1="3.5344991e-017"
-   y1="416"
+   x1="0"
+   y1="256"
    x2="512"
-   y2="416"
+   y2="256"
    id="line20"
    style="fill:none;stroke:#a9ccdb;stroke-miterlimit:10" />
 		<line
    stroke-miterlimit="10"
-   x1="3.5344991e-017"
-   y1="448"
+   x1="0"
+   y1="288"
    x2="512"
-   y2="448"
+   y2="288"
    id="line22"
    style="fill:none;stroke:#a9ccdb;stroke-miterlimit:10" />
 		<line
    stroke-miterlimit="10"
-   x1="3.5344991e-017"
-   y1="480"
+   x1="0"
+   y1="320"
    x2="512"
-   y2="480"
+   y2="320"
    id="line24"
    style="fill:none;stroke:#a9ccdb;stroke-miterlimit:10" />
 		<line
    stroke-miterlimit="10"
-   x1="3.5344991e-017"
-   y1="512"
+   x1="0"
+   y1="352"
    x2="512"
-   y2="512"
+   y2="352"
    id="line26"
    style="fill:none;stroke:#a9ccdb;stroke-miterlimit:10" />
 		<line
    stroke-miterlimit="10"
-   x1="3.5344991e-017"
-   y1="544"
+   x1="0"
+   y1="384"
    x2="512"
-   y2="544"
+   y2="384"
    id="line28"
    style="fill:none;stroke:#a9ccdb;stroke-miterlimit:10" />
 		<line
@@ -305,13 +294,12 @@
    y2="512"
    id="line64"
    style="fill:none;stroke:#a9ccdb;stroke-miterlimit:10" />
-	<g
-   id="g51" /><g
-   id="g70"><path
-     style="fill:#6b5d4e;stroke-width:7.81931591"
-     d="M 300.99923,28.831566 C 286.3041,46.88729 267.4542,98.556831 257.19886,148.89298 c -10.22094,50.16763 -11.91434,51.32409 -54.43347,37.17395 -96.53765,-32.12728 -98.6593,-32.49172 -124.659374,-21.41403 -32.583068,13.88249 -51.282446,43.51902 -48.161721,76.33119 2.098767,22.06704 6.158523,26.70521 27.178466,31.05082 13.591129,2.80978 35.636673,14.48316 48.990079,25.94085 13.35342,11.45768 32.51722,20.83216 42.58623,20.83216 27.30694,0 31.46696,15.36464 9.32284,34.43282 -42.25518,36.38567 -43.23624,84.00747 -1.73065,84.00747 22.62852,0 91.44301,-58.10237 104.53142,-88.2594 5.04697,-11.62876 15.86084,-27.31184 24.03078,-34.85129 12.52279,-11.55639 17.57726,-12.14815 32.20173,-3.76997 15.9202,9.1205 54.07821,53.07967 79.10709,91.13361 9.40296,14.29631 11.98493,14.62771 31.40264,4.03079 29.3872,-16.0376 57.73164,-56.28079 63.01251,-89.46452 3.95713,-24.86597 1.18301,-30.99089 -25.53598,-56.37979 -16.48642,-15.66578 -50.0113,-41.25637 -74.49968,-56.86798 -37.5289,-23.92513 -44.52425,-31.97374 -44.52425,-51.22829 0,-12.56395 5.69884,-31.71262 12.66418,-42.55258 9.96739,-15.512145 11.20411,-26.80241 5.80746,-53.020319 -6.09794,-29.625461 -9.49999,-33.574339 -30.7462,-35.688522 -13.46405,-1.339785 -27.75359,2.370396 -32.74373,8.501617 z"
-     id="path78"
-     inkscape:connector-curvature="0" /></g></g>
+	</g>
 	
-
+<path
+   sodipodi:nodetypes="cssscssscsscccccccsccsccccccscccccccccccccccccsccscccsscssscccscccscscc"
+   inkscape:connector-curvature="0"
+   d="m 566.76917,185.0311 c -23.11096,31.42752 -52.75609,121.36274 -68.88462,208.97707 -16.07441,87.32101 -18.73761,89.33392 -85.60722,64.70441 -151.82424,-55.92025 -155.16095,-56.55459 -196.05113,-37.27293 -51.24321,24.16364 -80.65162,75.74854 -75.74367,132.8609 3.30072,38.40956 9.68547,46.48268 42.74342,54.04659 21.3747,4.89065 56.0456,25.20916 77.04644,45.15224 21.00085,19.94306 51.13966,36.26014 66.97513,36.26014 42.94548,0 49.48792,26.74346 14.66198,59.93324 -66.45449,63.33234 -67.9974,146.22212 -2.72178,146.22212 35.58775,0 143.81193,-101.1321 164.396,-153.62297 7.93735,-20.24083 24.94426,-47.53857 37.79308,-60.66162 19.69452,-20.11487 27.64366,-21.14488 50.64348,-6.56195 25.03762,15.875 85.04852,92.38967 124.4113,158.62576 14.78799,24.88395 18.84863,25.46078 49.38677,7.01594 46.21709,-27.9148 90.79423,-97.96148 99.09943,-155.72058 6.22336,-43.28133 1.86051,-53.94227 -40.1603,-98.1338 -25.9281,-27.26761 -78.6525,-71.8102 -117.16525,-98.98354 -59.02149,-41.64371 -70.02304,-55.653 -70.02304,-89.16717 0,-21.86862 8.96253,-55.19851 19.91689,-74.06637 15.67565,-27.00021 17.62063,-46.65187 9.13336,-92.28636 -9.59021,-51.56563 -14.94059,-58.43899 -48.35439,-62.11889 -21.17484,-2.33202 -43.64792,4.12586 -51.49588,14.79777 z"
+   id="path78"
+   style="fill:#58211b;fill-opacity:1;stroke-width:1.65451157" />
  </svg>
