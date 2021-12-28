@@ -6,6 +6,10 @@
 
 # This font contain glyphs for realizing the ancient alphabet of Dead Sea Scrolls - Book of Enoch 4Q208 and Psalm Scroll fragments from cave 4Q.  
 
+# The Book describes the movement of the Moon and its phases, the schematic meteorology, and the movement in the star map in relation to the seasons of one year. 
+# The book is part of the Jewish pseudepigraphic literature of the Second Temple timeframe. 
+# The four Aramaic manuscripts (4Q208-4Q211) that comprise the Aramaic or Hebrew Astronomical Book of Enoch, was discovered in 1952 in the 4th Qumran cave near the Dead Sea in Israel.
+
 # The fonts are encoded acording to unicode.org font subset maps.     
 
 	1. [To Install the Font on Computer] [# Install Font on Computer] (#install-font-on-computer)      
